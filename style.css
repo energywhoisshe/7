@@ -15,7 +15,7 @@ body, html {
 
 details{
   width: 100%;
-  text-align: justify;
+  text-align: left;
   padding: 1em;
   box-sizing: border-box;
   background-color: white;
