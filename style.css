@@ -1,4 +1,4 @@
-p {
+* {
   width: 500px;
   height: 500px;
   margin: 50px; /* 바깥쪽 여백 */
@@ -11,7 +11,4 @@ p {
   
 };
 
-transition-duration {
-  transition: background 4s, transform 1s;
-};
 
