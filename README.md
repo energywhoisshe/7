@@ -37,9 +37,7 @@ energywhoisshe@gmail.com
   <br>
   <br>
   
-<img src="https://user-images.githubusercontent.com/90887934/177153864-7fe4455b-1373-4b3f-9ea3-2c7957639acc.JPG" width="20%">
 
-  
 <br>
 <br>
 <br>
