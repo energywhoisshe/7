@@ -1,1 +1,17 @@
+p {
+  width: 500px;
+  height: 500px;
+  margin: 50px; /* 바깥쪽 여백 */
+  padding: 25px; /* 안쪽 여백 */
+  border: 0; /* 선 */
+  font-size: 100%; /* 글자 크기 */
+  font-style: normal /* 글자 스타일 */
+  font-weight: normal /* 글자 굵기 */
+  color: black;
+  
+};
+
+transition-duration {
+  transition: background 4s, transform 1s;
+};
 
