@@ -28,3 +28,20 @@ html {
         indigo 300px, violet 350px, red 370px);
 }
 
+details{
+  width: 100%;
+  max-width: 750px;
+  text-align: justify;
+  padding: 1em;
+  box-sizing: border-box;
+  background-color: lightgray;
+  color: darkgray;
+}
+
+summary{
+  font-weight: 900;
+  list-style: none;
+  width: 49px;
+  text-align: center;
+  cursor: pointer;
+}
