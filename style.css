@@ -1,6 +1,6 @@
 html {
-  margin: 0; /* 바깥쪽 여백 */
-  padding: 0; /* 안쪽 여백 */
+  margin: 20; /* 바깥쪽 여백 */
+  padding: 20; /* 안쪽 여백 */
   border: 0; /* 선 */
   font-size: 100%; /* 글자 크기 */
   font-style: normal; /* 글자 스타일 */
