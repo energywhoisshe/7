@@ -15,7 +15,6 @@ body, html {
 
 details{
   width: 100%;
-  max-width: 750px;
   text-align: justify;
   padding: 1em;
   box-sizing: border-box;
@@ -25,7 +24,6 @@ details{
 
 summary{
   list-style: none;
-  width: 49px;
   text-align: center;
   cursor: pointer;
 }
