@@ -6,9 +6,7 @@ html {
   font-style: normal; /* 글자 스타일 */
   font-weight: normal;
   line-height: 1.2;
-};
-
-.multi-repeating-linear {
+  
   background:
       repeating-linear-gradient(190deg, rgba(255, 0, 0, 0.5) 40px,
         rgba(255, 153, 0, 0.5) 80px, rgba(255, 255, 0, 0.5) 120px,
@@ -23,6 +21,6 @@ html {
       repeating-linear-gradient(23deg, red 50px, orange 100px,
         yellow 150px, green 200px, blue 250px,
         indigo 300px, violet 350px, red 370px);
-}
+};
 
 
