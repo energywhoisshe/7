@@ -1,11 +1,14 @@
 html {
-  margin: 20; /* 바깥쪽 여백 */
-  padding: 20; /* 안쪽 여백 */
+  margin: ; /* 바깥쪽 여백 */
+  padding: ; /* 안쪽 여백 */
   border: 0; /* 선 */
   font-size: 100%; /* 글자 크기 */
   font-style: normal; /* 글자 스타일 */
   font-weight: normal;
   line-height: 1.5;
+  
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
 };
 
 .multi-repeating-linear {
